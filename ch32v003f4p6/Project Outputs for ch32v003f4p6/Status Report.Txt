@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [ch32v003f4p6.PrjPcb]
+   Generated File[Pick Place for ch32v003f4p6 v1.1.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:10:59 PM On 7/29/2024
